@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+Algoritmo ordenaciones
 	definir a Como Entero;
 	dimension a[4];
 	definir aux,aux2 como entero;
